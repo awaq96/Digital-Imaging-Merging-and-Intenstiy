@@ -1,13 +1,10 @@
 # Digital Image Processing 
 ## Assignment - 0 ##
 
-Due: Tue 09/15/20 11:59 PM
 
 **1.  Image Merging:**
 
 (5 pts.) Write a code to merge two images of the computer scientist *Grace Hopper*. In 1952, *Grace Hopper* and her team created the first compiler for computer languages.
-
-![image_test2](https://user-images.githubusercontent.com/25855062/91643178-9f2d6380-e9f6-11ea-8cea-2313e80365c6.jpg)
 
 
 The inputs to your function are: (i) image left: grace_1.png (size: 350Rows X 340Cols), (ii) image right: grace_2.png (size: 350R X 340C), (iii) image column (c) at which the images should be merged.
